@@ -106,4 +106,4 @@ java -jar target/jvcs-0.1.jar
 
 Java 21. Maven. Zero dependencies (except JUnit for tests).
 
---linus
+-- Omkar Bhor (omkar@bhor.online)
